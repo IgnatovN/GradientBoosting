@@ -9,4 +9,4 @@ My gradient-boosting algorithm is built over decisive trees with depth-wise meth
 
 ---
 
-According to test fit on the same data, my implementation showed the similar accuracy as sklearn's one
+According to test fit on the same dataset, my implementation showed better accuracy with worse speed comparing with sklearn's one
